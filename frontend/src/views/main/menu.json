@@ -1,0 +1,37 @@
+{
+  "home" : {
+    "name" : "홈",
+    "hidden" : false,
+    "path" : "/",
+    "icon" : "el-icon-s-home",
+    "children" : []
+  },
+  "history" : {
+    "name" : "지난 회의 이력",
+    "hidden" : false,
+    "path" : "/history",
+    "icon" : "el-icon-s-order",
+    "children" : []
+  },
+  "ranking":{
+    "name":"랭킹",
+    "hidden" : false,
+    "path" : "/ranking",
+    "icon" : "el-icon-s-order",
+    "children" : []
+  },
+  "studyRoomList":{
+    "name":"내가 신청한 방목록",
+    "hidden" : false,
+    "path" : "/studyroomlist",
+    "icon" : "el-icon-s-order",
+    "children" : []
+  },
+  "profile":{
+    "name":"내 프로필",
+    "hidden" : false,
+    "path" : "/profile",
+    "icon" : "el-icon-s-order",
+    "children" : []
+  }
+}
